@@ -20,7 +20,7 @@ public class Conexao {
 	
 	private Connection con;
 	private static final String USUARIO = "postgres";
-	private static final String SENHA = "pr4gr1m1d4r";	
+	private static final String SENHA = "univel";	
 	
 	public Connection getCon() {
 		return this.con;
